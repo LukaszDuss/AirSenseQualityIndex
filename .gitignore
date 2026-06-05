@@ -1,0 +1,23 @@
+# Sekrety
+.env
+.env.*
+!.env.example
+settings/app_settings.json
+settings/gios_audit_cache.json
+
+# Dane i modele generowane lokalnie
+data_store/
+models/
+*.keras
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Narzędzia/IDE
+.idea/
+.vscode/
+.claude/
