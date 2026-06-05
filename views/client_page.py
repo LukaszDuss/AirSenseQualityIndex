@@ -91,15 +91,28 @@ def _inject_client_css():
     }
     div[data-testid="stMarkdownContainer"]:has(.wx-day-row-marker)
         + div[data-testid="stHorizontalBlock"] [data-testid="column"] [data-testid="stButton"] button {
-        opacity: 0 !important;
+        opacity: 1 !important;
         width: 100% !important;
         height: 100% !important;
-        min-height: 92px !important;
-        padding: 0 !important;
+        min-height: 104px !important;
+        padding: 12px 6px 0 !important;
         border: none !important;
         background: transparent !important;
         box-shadow: none !important;
         cursor: pointer !important;
+        color: #9aa0a6 !important;
+        display: flex !important;
+        align-items: flex-start !important;
+        justify-content: center !important;
+        text-align: center !important;
+        white-space: pre-line !important;
+        font-size: 14px !important;
+        font-weight: 700 !important;
+        line-height: 1.18 !important;
+    }
+    div[data-testid="stMarkdownContainer"]:has(.wx-day-row-marker)
+        + div[data-testid="stHorizontalBlock"] [data-testid="column"] [data-testid="stButton"] button[data-testid="stBaseButton-primary"] {
+        color: #e8eaed !important;
     }
     div[data-testid="stMarkdownContainer"]:has(.wx-day-row-marker)
         + div[data-testid="stHorizontalBlock"] [data-testid="column"]:has(button:hover) .wx-day-tile {
@@ -123,19 +136,19 @@ def _inject_client_css():
     }
     .wx-day-tile {
         border-radius: 14px;
-        padding: 10px 6px 12px;
+        padding: 42px 6px 10px;
         text-align: center;
         background: transparent;
         border: 1px solid transparent;
         transition: background 160ms ease-out, border-color 160ms ease-out,
             box-shadow 160ms ease-out, transform 100ms ease-out;
         pointer-events: none;
-        min-height: 92px;
+        min-height: 104px;
         display: flex;
         flex-direction: column;
         align-items: center;
-        justify-content: center;
-        gap: 2px;
+        justify-content: flex-end;
+        gap: 4px;
     }
     .wx-day-tile.is-active {
         background: #3c4043;
@@ -151,21 +164,32 @@ def _inject_client_css():
         background: var(--aq-color, #9aa0a6);
         margin: 0 auto 6px;
     }
-    .wx-day-wd {
-        font-size: 12px; font-weight: 600; color: #9aa0a6;
-        letter-spacing: 0.02em;
-    }
-    .wx-day-tile.is-active .wx-day-wd { color: #e8eaed; }
-    .wx-day-date { font-size: 10px; color: #80868b; margin-bottom: 2px; }
     .wx-day-dot {
-        font-size: 18px; line-height: 1; margin: 2px 0;
+        font-size: 18px; line-height: 1; margin: 1px 0;
         color: var(--aq-color, #9aa0a6);
     }
+    .wx-day-values {
+        min-width: 46px;
+        padding: 3px 8px 4px;
+        border-radius: 10px;
+        background: #f1f3f4;
+    }
+    .wx-day-tile.is-active .wx-day-values {
+        background: transparent;
+        padding-left: 0;
+        padding-right: 0;
+    }
     .wx-day-hi {
-        font-size: 16px; font-weight: 500; color: #e8eaed; line-height: 1.1;
+        font-size: 18px; font-weight: 600; color: #111827; line-height: 1.05;
     }
     .wx-day-lo {
-        font-size: 12px; color: #80868b; line-height: 1.1; margin-top: 1px;
+        font-size: 14px; color: #111827; line-height: 1.05; margin-top: 2px;
+    }
+    .wx-day-tile.is-active .wx-day-hi {
+        color: #e8eaed;
+    }
+    .wx-day-tile.is-active .wx-day-lo {
+        color: #80868b;
     }
     </style>
     """, unsafe_allow_html=True)
@@ -289,11 +313,11 @@ def _day_tile_html(w, *, active):
     active_cls = " is-active" if active else ""
     return (
         f'<div class="wx-day-tile{active_cls}" style="--aq-color:{aq_color};">'
-        f'<div class="wx-day-wd">{w["wd"]}</div>'
-        f'<div class="wx-day-date">{w["date_label"]}</div>'
         f'<div class="wx-day-dot">●</div>'
+        f'<div class="wx-day-values">'
         f'<div class="wx-day-hi">{w["max"]:.0f}</div>'
         f'<div class="wx-day-lo">{w["min"]:.0f}</div>'
+        f"</div>"
         f"</div>"
     )
 
@@ -311,7 +335,7 @@ def _render_day_picker(windows, sid):
     for i, (col, w) in enumerate(zip(cols, windows)):
         with col:
             if st.button(
-                "\u200b",
+                f'{w["wd"]}\n{w["date_label"]}',
                 key=f"client_day_btn_{sid}_{i}",
                 type="primary" if i == sel else "secondary",
                 use_container_width=True,
