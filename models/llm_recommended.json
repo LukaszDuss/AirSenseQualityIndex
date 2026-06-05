@@ -1,0 +1,22 @@
+{
+  "17880": {
+    "model": "aq_zabrze_o288_h168_e25_n80_20260605",
+    "models_snapshot": [
+      "aq_zabrze_o288_h168_e25_n80_20260605",
+      "aq_zabrze_o288_h168_e26_n80_20260605",
+      "aq_zabrze_o312_h168_e31_n80_20260605",
+      "aq_zabrze_o336_h168_e32_n64_20260605",
+      "aq_zabrze_o384_h168_e26_n96_20260605",
+      "aq_zabrze_o406_h168_e31_n64_20260605",
+      "aq_zabrze_o504_h168_e80_n64_20260605"
+    ],
+    "recommended_at": "2026-06-05 11:17"
+  },
+  "114": {
+    "model": "aq_wrocaw_o336_h168_e29_n64_20260605",
+    "models_snapshot": [
+      "aq_wrocaw_o336_h168_e29_n64_20260605"
+    ],
+    "recommended_at": "2026-06-05 11:51"
+  }
+}

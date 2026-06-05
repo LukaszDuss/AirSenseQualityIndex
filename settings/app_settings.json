@@ -1,0 +1,46 @@
+{
+  "enabled_station_ids": [
+    114,
+    401,
+    444,
+    809,
+    17880
+  ],
+  "custom_stations": {
+    "Gliwice, ul. Mewy": {
+      "id": 809,
+      "lat": 50.279481,
+      "lon": 18.655736
+    },
+    "Zabrze, ul. M. Skłodowskiej-Curie": {
+      "id": 17880,
+      "lat": 50.317072,
+      "lon": 18.771258
+    },
+    "Wrocław, ul. Bartnicza": {
+      "id": 114,
+      "lat": 51.115933,
+      "lon": 17.141125
+    },
+    "Kraków, ul. Bujaka": {
+      "id": 401,
+      "lat": 50.010575,
+      "lon": 19.949189
+    },
+    "Tarnów, ul. Bitwy pod Studziankami": {
+      "id": 444,
+      "lat": 50.020169,
+      "lon": 21.004167
+    }
+  },
+  "removed_station_ids": [
+    1,
+    265,
+    400,
+    544,
+    550,
+    738
+  ],
+  "openai_api_key": "",
+  "openai_model": "gpt-5.5"
+}

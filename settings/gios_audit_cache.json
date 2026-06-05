@@ -1,0 +1,7369 @@
+{
+  "sensor_scan_at": "2026-06-04T23:15:49",
+  "data_scan_at": null,
+  "stations": {
+    "11916": {
+      "station_id": 11916,
+      "param_codes": [
+        "BaP(PM10)",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Augustów, Uzdrowisko",
+      "city": "Augustów",
+      "lat": 53.85255,
+      "lon": 22.984686
+    },
+    "460": {
+      "station_id": 460,
+      "param_codes": [
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Belsk Duży, IGF PAN",
+      "city": "Belsk Duży",
+      "lat": 51.835242,
+      "lon": 20.791912
+    },
+    "10060": {
+      "station_id": 10060,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Bełchatów, ul. Edwardów",
+      "city": "Bełchatów",
+      "lat": 51.356689,
+      "lon": 19.365903
+    },
+    "11358": {
+      "station_id": 11358,
+      "param_codes": [
+        "C6H6",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Biała, ul. Kmicica",
+      "city": "Biała",
+      "lat": 52.602534,
+      "lon": 19.6451
+    },
+    "236": {
+      "station_id": 236,
+      "param_codes": [
+        "BaP(PM10)",
+        "C6H6",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Biała Podlaska, ul. Orzechowa",
+      "city": "Biała Podlaska",
+      "lat": 52.029194,
+      "lon": 23.149389
+    },
+    "11814": {
+      "station_id": 11814,
+      "param_codes": [
+        "C6H6",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Białystok, Al. Piłsudskiego",
+      "city": "Białystok",
+      "lat": 53.135286,
+      "lon": 23.161325
+    },
+    "11174": {
+      "station_id": 11174,
+      "param_codes": [
+        "As(PM10)",
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "Cd(PM10)",
+        "DBahA(PM10)",
+        "IP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Białystok, ul. 42 Pułku Piechoty",
+      "city": "Białystok",
+      "lat": 53.144122,
+      "lon": 23.216322
+    },
+    "17658": {
+      "station_id": 17658,
+      "param_codes": [
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Białystok, ul. Upalna",
+      "city": "Białystok",
+      "lat": 53.129601,
+      "lon": 23.108054
+    },
+    "609": {
+      "station_id": 609,
+      "param_codes": [
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Białystok, ul. Warszawska",
+      "city": "Białystok",
+      "lat": 53.129306,
+      "lon": 23.181744
+    },
+    "789": {
+      "station_id": 789,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "C6H6",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "city": "Bielsko-Biała",
+      "lat": 49.813464,
+      "lon": 19.027318
+    },
+    "10158": {
+      "station_id": 10158,
+      "param_codes": [
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "PM10",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Bielsko-Biała, ul. Partyzantów",
+      "city": "Bielsko-Biała",
+      "lat": 49.802075,
+      "lon": 19.04861
+    },
+    "791": {
+      "station_id": 791,
+      "param_codes": [
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25"
+      ],
+      "eaqi_missing": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Bielsko-Biała, ul. Sternicza",
+      "city": "Bielsko-Biała",
+      "lat": 49.806389,
+      "lon": 19.023194
+    },
+    "391": {
+      "station_id": 391,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Bochnia, ul. Konfederatów Barskich",
+      "city": "Bochnia",
+      "lat": 49.969017,
+      "lon": 20.439511
+    },
+    "612": {
+      "station_id": 612,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Borsukowizna, Szkółka Leśna",
+      "city": "Borsukowizna",
+      "lat": 53.215492,
+      "lon": 23.642153
+    },
+    "950": {
+      "station_id": 950,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Borówiec, ul. Drapałka",
+      "city": "Borówiec",
+      "lat": 52.27672,
+      "lon": 17.074187
+    },
+    "20647": {
+      "station_id": 20647,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Braniewo, ul. PCK",
+      "city": "Braniewo",
+      "lat": 54.383907,
+      "lon": 19.815018
+    },
+    "9203": {
+      "station_id": 9203,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Brodnica, ul. Kochanowskiego",
+      "city": "Brodnica",
+      "lat": 53.249264,
+      "lon": 19.415086
+    },
+    "16413": {
+      "station_id": 16413,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Brzeg, ul. Poprzeczna",
+      "city": "Brzeg",
+      "lat": 50.849509,
+      "lon": 17.462579
+    },
+    "289": {
+      "station_id": 289,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Brzeziny, ul. Reformacka",
+      "city": "Brzeziny",
+      "lat": 51.797806,
+      "lon": 19.756094
+    },
+    "756": {
+      "station_id": 756,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Busko-Zdrój, ul. Rokosza",
+      "city": "Busko-Zdrój",
+      "lat": 50.453621,
+      "lon": 20.71564
+    },
+    "156": {
+      "station_id": 156,
+      "param_codes": [
+        "C6H6",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Bydgoszcz, Pl. Poznański",
+      "city": "Bydgoszcz",
+      "lat": 53.121764,
+      "lon": 17.987906
+    },
+    "150": {
+      "station_id": 150,
+      "param_codes": [
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25"
+      ],
+      "eaqi_missing": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Bydgoszcz, ul. Fieldorfa",
+      "city": "Bydgoszcz",
+      "lat": 53.151452,
+      "lon": 18.132062
+    },
+    "11576": {
+      "station_id": 11576,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3"
+      ],
+      "eaqi_present": [
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Bydgoszcz, ul. Jeździecka",
+      "city": "Bydgoszcz",
+      "lat": 53.175214,
+      "lon": 18.044164
+    },
+    "158": {
+      "station_id": 158,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Bydgoszcz, ul. Warszawska",
+      "city": "Bydgoszcz",
+      "lat": 53.134083,
+      "lon": 17.995708
+    },
+    "11360": {
+      "station_id": 11360,
+      "param_codes": [
+        "As(PM10)",
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "Cd(PM10)",
+        "DBahA(PM10)",
+        "IP(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "PM25",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Chełm, ul. Połaniecka",
+      "city": "Chełm",
+      "lat": 51.122147,
+      "lon": 23.473075
+    },
+    "20209": {
+      "station_id": 20209,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Ciechanów, ul. Kraszewskiego",
+      "city": "Ciechanów",
+      "lat": 52.885541,
+      "lon": 20.602511
+    },
+    "164": {
+      "station_id": 164,
+      "param_codes": [
+        "BaP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Ciechocinek, ul. Tężniowa",
+      "city": "Ciechocinek",
+      "lat": 52.888422,
+      "lon": 18.780908
+    },
+    "16406": {
+      "station_id": 16406,
+      "param_codes": [
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Cieszyn, ul. Chopina",
+      "city": "Cieszyn",
+      "lat": 49.755989,
+      "lon": 18.634075
+    },
+    "11": {
+      "station_id": 11,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Czerniawa",
+      "city": "Czerniawa",
+      "lat": 50.912475,
+      "lon": 15.31219
+    },
+    "9000": {
+      "station_id": 9000,
+      "param_codes": [
+        "C6H6"
+      ],
+      "eaqi_present": [],
+      "eaqi_missing": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 0,
+      "full_sensors": false,
+      "name": "Czerwionka-Leszczyny, ul. Kopalniana",
+      "city": "Czerwionka-Leszczyny",
+      "lat": 50.16385,
+      "lon": 18.659977
+    },
+    "798": {
+      "station_id": 798,
+      "param_codes": [
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Częstochowa, Al. AK/Jana Pawła II",
+      "city": "Częstochowa",
+      "lat": 50.817217,
+      "lon": 19.118997
+    },
+    "800": {
+      "station_id": 800,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Częstochowa, ul. Baczyńskiego",
+      "city": "Częstochowa",
+      "lat": 50.836389,
+      "lon": 19.130111
+    },
+    "804": {
+      "station_id": 804,
+      "param_codes": [
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25"
+      ],
+      "eaqi_missing": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Częstochowa, ul. Zana",
+      "city": "Częstochowa",
+      "lat": 50.801918,
+      "lon": 19.106961
+    },
+    "882": {
+      "station_id": 882,
+      "param_codes": [
+        "As(PM10)",
+        "As(cdepoz)",
+        "BaA(PM10)",
+        "BaA(cdepoz)",
+        "BaP(PM10)",
+        "BaP(cdepoz)",
+        "BbF(PM10)",
+        "BbF(cdepoz)",
+        "BjF(PM10)",
+        "BjF(cdepoz)",
+        "BkF(PM10)",
+        "BkF(cdepoz)",
+        "Cd(PM10)",
+        "Cd(cdepoz)",
+        "DBahA(PM10)",
+        "DBahA(cdepoz)",
+        "Hg(cdepoz)",
+        "IP(PM10)",
+        "IP(cdepoz)",
+        "Ni(cdepoz)"
+      ],
+      "eaqi_present": [],
+      "eaqi_missing": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 0,
+      "full_sensors": false,
+      "name": "Diabla Góra, Puszcza Borecka",
+      "city": "Diabla Góra",
+      "lat": 54.124819,
+      "lon": 22.038056
+    },
+    "10093": {
+      "station_id": 10093,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Duszniki-Zdrój, ul. Sportowa",
+      "city": "Duszniki-Zdrój",
+      "lat": 50.402561,
+      "lon": 16.393311
+    },
+    "16": {
+      "station_id": 16,
+      "param_codes": [
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Dzierżoniów, ul. Piłsudskiego",
+      "city": "Dzierżoniów",
+      "lat": 50.732817,
+      "lon": 16.64805
+    },
+    "805": {
+      "station_id": 805,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "C6H6",
+        "CO",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Dąbrowa Górnicza, ul. Tysiąclecia",
+      "city": "Dąbrowa Górnicza",
+      "lat": 50.329111,
+      "lon": 19.231222
+    },
+    "9173": {
+      "station_id": 9173,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Dębica, ul.Grottgera",
+      "city": "Dębica",
+      "lat": 50.054786,
+      "lon": 21.416256
+    },
+    "861": {
+      "station_id": 861,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "C6H6",
+        "CO",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2",
+        "etylobenzen",
+        "mpksylen",
+        "oksylen",
+        "toluen"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Elbląg, ul. Bażyńskiego",
+      "city": "Elbląg",
+      "lat": 54.167847,
+      "lon": 19.410942
+    },
+    "10005": {
+      "station_id": 10005,
+      "param_codes": [
+        "C6H6",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Ełk, ul. Piłsudskiego",
+      "city": "Ełk",
+      "lat": 53.828389,
+      "lon": 22.348338
+    },
+    "10874": {
+      "station_id": 10874,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Florianka, RPN",
+      "city": "Florianka",
+      "lat": 50.551894,
+      "lon": 22.982861
+    },
+    "291": {
+      "station_id": 291,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Gajew, Ujęcie Wody",
+      "city": "Gajew",
+      "lat": 52.143258,
+      "lon": 19.233217
+    },
+    "16180": {
+      "station_id": 16180,
+      "param_codes": [
+        "BaP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Gdańsk, Al. Grunwaldzka",
+      "city": "Gdańsk",
+      "lat": 54.380682,
+      "lon": 18.601559
+    },
+    "20347": {
+      "station_id": 20347,
+      "param_codes": [
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Gdańsk, ul. Lawendowe Wzgórze",
+      "city": "Gdańsk",
+      "lat": 54.328833,
+      "lon": 18.568819
+    },
+    "736": {
+      "station_id": 736,
+      "param_codes": [
+        "As(PM10)",
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "CO",
+        "Cd(PM10)",
+        "DBahA(PM10)",
+        "IP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Gdańsk, ul. Leczkowa",
+      "city": "Gdańsk",
+      "lat": 54.380139,
+      "lon": 18.619766
+    },
+    "729": {
+      "station_id": 729,
+      "param_codes": [
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "O3"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Gdańsk, ul. Powstańców Warszawskich",
+      "city": "Gdańsk",
+      "lat": 54.353196,
+      "lon": 18.635267
+    },
+    "706": {
+      "station_id": 706,
+      "param_codes": [
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25"
+      ],
+      "eaqi_missing": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Gdańsk, ul. Powstańców Wielkopolskich",
+      "city": "Gdańsk",
+      "lat": 54.398639,
+      "lon": 18.614333
+    },
+    "731": {
+      "station_id": 731,
+      "param_codes": [
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "O3"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Gdańsk, ul. Wyzwolenia",
+      "city": "Gdańsk",
+      "lat": 54.400788,
+      "lon": 18.657332
+    },
+    "732": {
+      "station_id": 732,
+      "param_codes": [
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Gdynia, ul. Porębskiego",
+      "city": "Gdynia",
+      "lat": 54.560836,
+      "lon": 18.493331
+    },
+    "809": {
+      "station_id": 809,
+      "param_codes": [
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Gliwice, ul. Mewy",
+      "city": "Gliwice",
+      "lat": 50.279481,
+      "lon": 18.655736
+    },
+    "890": {
+      "station_id": 890,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Gniezno, ul. Paczkowskiego",
+      "city": "Gniezno",
+      "lat": 52.539283,
+      "lon": 17.612239
+    },
+    "11457": {
+      "station_id": 11457,
+      "param_codes": [
+        "C6H6",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Goczałkowice-Zdrój, ul. Parkowa",
+      "city": "Goczałkowice-Zdrój",
+      "lat": 49.93785,
+      "lon": 18.975594
+    },
+    "810": {
+      "station_id": 810,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Ca2+(PM25)",
+        "Cd(PM10)",
+        "Cl_(PM25)",
+        "EC(PM25)",
+        "K+(PM25)",
+        "Mg2+(PM25)",
+        "NH4+(PM25)",
+        "NO3_(PM25)",
+        "Na+(PM25)",
+        "Ni(PM10)",
+        "OC(PM25)",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO42_(PM25)"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Godów, ul. Gliniki",
+      "city": "Godów",
+      "lat": 49.921875,
+      "lon": 18.471278
+    },
+    "398": {
+      "station_id": 398,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Gorlice, ul. Krasińskiego",
+      "city": "Gorlice",
+      "lat": 49.658889,
+      "lon": 21.163336
+    },
+    "361": {
+      "station_id": 361,
+      "param_codes": [
+        "BaP(PM10)",
+        "C6H6",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2",
+        "etylobenzen",
+        "mpksylen",
+        "toluen"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Gorzów Wlkp. ul. Kosynierów Gdyńskich",
+      "city": "Gorzów Wielkopolski",
+      "lat": 52.738214,
+      "lon": 15.228667
+    },
+    "362": {
+      "station_id": 362,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "PM25",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Gorzów Wlkp. ul. Piłsudskiego",
+      "city": "Gorzów Wielkopolski",
+      "lat": 52.747044,
+      "lon": 15.246294
+    },
+    "870": {
+      "station_id": 870,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Gołdap, ul. Jaćwieska",
+      "city": "Gołdap",
+      "lat": 54.305908,
+      "lon": 22.307681
+    },
+    "11754": {
+      "station_id": 11754,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Gołuchów, Ujęcie Wody",
+      "city": "Gołuchów",
+      "lat": 50.621482,
+      "lon": 20.614057
+    },
+    "466": {
+      "station_id": 466,
+      "param_codes": [
+        "Hg(TGM)",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Granica, KPN",
+      "city": "Granica",
+      "lat": 52.285858,
+      "lon": 20.454653
+    },
+    "142": {
+      "station_id": 142,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Grudziądz, ul. Piłsudskiego",
+      "city": "Grudziądz",
+      "lat": 53.49355,
+      "lon": 18.762139
+    },
+    "183": {
+      "station_id": 183,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Grudziądz, ul. Sienkiewicza",
+      "city": "Grudziądz",
+      "lat": 53.491831,
+      "lon": 18.752503
+    },
+    "9913": {
+      "station_id": 9913,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Guty Duże",
+      "city": "Guty Duże",
+      "lat": 52.943172,
+      "lon": 21.288167
+    },
+    "9177": {
+      "station_id": 9177,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Głogów, ul. Wita Stwosza",
+      "city": "Głogów",
+      "lat": 51.657022,
+      "lon": 16.097822
+    },
+    "10018": {
+      "station_id": 10018,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Głubczyce, ul. Ratuszowa",
+      "city": "Głubczyce",
+      "lat": 50.200778,
+      "lon": 17.83051
+    },
+    "143": {
+      "station_id": 143,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Inowrocław, ul. Solankowa",
+      "city": "Inowrocław",
+      "lat": 52.793122,
+      "lon": 18.241044
+    },
+    "10122": {
+      "station_id": 10122,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Iwonicz Zdrój, ul. Rąba",
+      "city": "Iwonicz-Zdrój",
+      "lat": 49.565183,
+      "lon": 21.791308
+    },
+    "8953": {
+      "station_id": 8953,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Iława, ul.Andersa",
+      "city": "Iława",
+      "lat": 53.587873,
+      "lon": 19.564908
+    },
+    "248": {
+      "station_id": 248,
+      "param_codes": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Jarczew, IMGW",
+      "city": "Jarczew",
+      "lat": 51.814367,
+      "lon": 21.972375
+    },
+    "631": {
+      "station_id": 631,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Jarosław, ul. Pruchnicka",
+      "city": "Jarosław",
+      "lat": 50.012083,
+      "lon": 22.674772
+    },
+    "11855": {
+      "station_id": 11855,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Jastrzębie-Zdrój, Al. J.Piłsudskiego/Harcerska",
+      "city": "Jastrzębie-Zdrój",
+      "lat": 49.952544,
+      "lon": 18.607953
+    },
+    "638": {
+      "station_id": 638,
+      "param_codes": [
+        "BaP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Jaslo, ul. Sikorskiego",
+      "city": "Jasło",
+      "lat": 49.744886,
+      "lon": 21.454617
+    },
+    "9153": {
+      "station_id": 9153,
+      "param_codes": [
+        "C6H6",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Jelenia Góra, ul. Ogińskiego",
+      "city": "Jelenia Góra",
+      "lat": 50.913433,
+      "lon": 15.765608
+    },
+    "8873": {
+      "station_id": 8873,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Jelenia Góra, ul. Sokoliki",
+      "city": "Jelenia Góra",
+      "lat": 50.871214,
+      "lon": 15.700947
+    },
+    "952": {
+      "station_id": 952,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "C6H6",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Kalisz, ul. Wyszyńskiego",
+      "city": "Kalisz",
+      "lat": 51.74795,
+      "lon": 18.049063
+    },
+    "10119": {
+      "station_id": 10119,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3"
+      ],
+      "eaqi_present": [
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Kaszów",
+      "city": "Kaszów",
+      "lat": 50.025028,
+      "lon": 19.726833
+    },
+    "17318": {
+      "station_id": 17318,
+      "param_codes": [
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Katowice, ul. Dudy-Gracza",
+      "city": "Katowice",
+      "lat": 50.258483,
+      "lon": 19.036217
+    },
+    "814": {
+      "station_id": 814,
+      "param_codes": [
+        "As(PM10)",
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "Cd(PM10)",
+        "DBahA(PM10)",
+        "IP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Katowice, ul. Kossutha",
+      "city": "Katowice",
+      "lat": 50.264611,
+      "lon": 18.975028
+    },
+    "16497": {
+      "station_id": 16497,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Kielce, ul. Jurajska",
+      "city": "Kielce",
+      "lat": 50.887606,
+      "lon": 20.579965
+    },
+    "11195": {
+      "station_id": 11195,
+      "param_codes": [
+        "As(PM10)",
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "C6H6",
+        "CO",
+        "Cd(PM10)",
+        "DBahA(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Kielce, ul. Targowa",
+      "city": "Kielce",
+      "lat": 50.878998,
+      "lon": 20.633692
+    },
+    "16196": {
+      "station_id": 16196,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Kielce, ul. Warszawska 108",
+      "city": "Kielce",
+      "lat": 50.886014,
+      "lon": 20.642858
+    },
+    "9973": {
+      "station_id": 9973,
+      "param_codes": [
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25"
+      ],
+      "eaqi_missing": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Kielce, ul. Warszawska 210",
+      "city": "Kielce",
+      "lat": 50.894374,
+      "lon": 20.657988
+    },
+    "577": {
+      "station_id": 577,
+      "param_codes": [
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Kluczbork, ul. Mickiewicza",
+      "city": "Kluczbork",
+      "lat": 50.972181,
+      "lon": 18.207575
+    },
+    "818": {
+      "station_id": 818,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Knurów, ul. Jedności Narodowej",
+      "city": "Knurów",
+      "lat": 50.233167,
+      "lon": 18.655722
+    },
+    "20590": {
+      "station_id": 20590,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "ul. Sportowa 15",
+      "city": "Kobierzyce",
+      "lat": 50.974886,
+      "lon": 16.929652
+    },
+    "190": {
+      "station_id": 190,
+      "param_codes": [
+        "BaP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Koniczynka, Pojezierze Chełmińskie",
+      "city": "Koniczynka",
+      "lat": 53.080647,
+      "lon": 18.684258
+    },
+    "902": {
+      "station_id": 902,
+      "param_codes": [
+        "C6H6",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Konin, ul. Wyszyńskiego",
+      "city": "Konin",
+      "lat": 52.22565,
+      "lon": 18.268927
+    },
+    "16271": {
+      "station_id": 16271,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Konstancin-Jeziorna, ul. Żeromskiego",
+      "city": "Konstancin-Jeziorna",
+      "lat": 52.082277,
+      "lon": 21.124598
+    },
+    "966": {
+      "station_id": 966,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Koszalin, Al. Armii Krajowej",
+      "city": "Koszalin",
+      "lat": 54.193986,
+      "lon": 16.172544
+    },
+    "11336": {
+      "station_id": 11336,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Koszalin, ul. Chopina",
+      "city": "Koszalin",
+      "lat": 54.194114,
+      "lon": 16.211672
+    },
+    "967": {
+      "station_id": 967,
+      "param_codes": [
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25"
+      ],
+      "eaqi_missing": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Koszalin, ul. Spasowskiego",
+      "city": "Koszalin",
+      "lat": 54.207151,
+      "lon": 16.193236
+    },
+    "10834": {
+      "station_id": 10834,
+      "param_codes": [
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Koziegłowy, Os. Leśne",
+      "city": "Koziegłowy",
+      "lat": 52.449295,
+      "lon": 16.999634
+    },
+    "10934": {
+      "station_id": 10934,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Kołobrzeg, ul. Żółkiewskiego",
+      "city": "Kołobrzeg",
+      "lat": 54.179381,
+      "lon": 15.596347
+    },
+    "740": {
+      "station_id": 740,
+      "param_codes": [
+        "BaP(PM10)",
+        "C6H6",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Kościerzyna, ul. Targowa",
+      "city": "Kościerzyna",
+      "lat": 54.120694,
+      "lon": 17.975861
+    },
+    "400": {
+      "station_id": 400,
+      "param_codes": [
+        "C6H6",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Kraków, Aleja Krasińskiego",
+      "city": "Kraków",
+      "lat": 50.057678,
+      "lon": 19.926189
+    },
+    "10139": {
+      "station_id": 10139,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Kraków, Os. Piastów",
+      "city": "Kraków",
+      "lat": 50.098508,
+      "lon": 20.018269
+    },
+    "11303": {
+      "station_id": 11303,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Kraków, Os. Swoszowice",
+      "city": "Kraków",
+      "lat": 49.991442,
+      "lon": 19.936792
+    },
+    "10447": {
+      "station_id": 10447,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Kraków, Os. Wadów",
+      "city": "Kraków",
+      "lat": 50.100569,
+      "lon": 20.122561
+    },
+    "401": {
+      "station_id": 401,
+      "param_codes": [
+        "As(PM10)",
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "Cd(PM10)",
+        "DBahA(PM10)",
+        "IP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Kraków, ul. Bujaka",
+      "city": "Kraków",
+      "lat": 50.010575,
+      "lon": 19.949189
+    },
+    "402": {
+      "station_id": 402,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "C6H6",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "O3"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Kraków, ul. Bulwarowa",
+      "city": "Kraków",
+      "lat": 50.069308,
+      "lon": 20.053492
+    },
+    "16896": {
+      "station_id": 16896,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Kraków, ul. Kamieńskiego",
+      "city": "Kraków",
+      "lat": 50.024605,
+      "lon": 19.97846
+    },
+    "20367": {
+      "station_id": 20367,
+      "param_codes": [
+        "O3"
+      ],
+      "eaqi_present": [
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Kraków, ul. Półłanki",
+      "city": "Kraków",
+      "lat": 50.034702,
+      "lon": 20.044386
+    },
+    "10123": {
+      "station_id": 10123,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Kraków, ul. Złoty Róg",
+      "city": "Kraków",
+      "lat": 50.081197,
+      "lon": 19.895358
+    },
+    "16913": {
+      "station_id": 16913,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Krapkowice, ul. 3 Maja",
+      "city": "Krapkowice",
+      "lat": 50.486194,
+      "lon": 17.97477
+    },
+    "20202": {
+      "station_id": 20202,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Krasne",
+      "city": "Krasne",
+      "lat": 50.043935,
+      "lon": 22.090741
+    },
+    "12098": {
+      "station_id": 12098,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Krasnobród, ul. Sanatoryjna",
+      "city": "Krasnobród",
+      "lat": 50.549297,
+      "lon": 23.197317
+    },
+    "250": {
+      "station_id": 250,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Kraśnik, ul. Koszarowa",
+      "city": "Kraśnik",
+      "lat": 50.928239,
+      "lon": 22.228308
+    },
+    "9175": {
+      "station_id": 9175,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Krempna, Ośrodek edukacyjno-muzealny MPN",
+      "city": "Krempna",
+      "lat": 49.511297,
+      "lon": 21.498606
+    },
+    "646": {
+      "station_id": 646,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Krosno, ul. Kletówki",
+      "city": "Krosno",
+      "lat": 49.690169,
+      "lon": 21.7497
+    },
+    "20307": {
+      "station_id": 20307,
+      "param_codes": [
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Krotoszyn, ul. Olimpijska",
+      "city": "Krotoszyn",
+      "lat": 51.697308,
+      "lon": 17.441263
+    },
+    "946": {
+      "station_id": 946,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Piaski, Krzyżówka",
+      "city": "Krzyżówka",
+      "lat": 52.501318,
+      "lon": 17.773175
+    },
+    "747": {
+      "station_id": 747,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Kwidzyn, ul. Sportowa",
+      "city": "Kwidzyn",
+      "lat": 53.722361,
+      "lon": 18.936917
+    },
+    "568": {
+      "station_id": 568,
+      "param_codes": [
+        "C6H6",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2",
+        "etylobenzen",
+        "mpksylen",
+        "toluen"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Kędzierzyn-Koźle, ul. Śmiałego",
+      "city": "Kędzierzyn-Koźle",
+      "lat": 50.349608,
+      "lon": 18.236575
+    },
+    "17659": {
+      "station_id": 17659,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Kępno ul. Sportowa",
+      "city": "Kępno",
+      "lat": 51.282994,
+      "lon": 17.986739
+    },
+    "38": {
+      "station_id": 38,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Kłodzko, ul. Szkolna",
+      "city": "Kłodzko",
+      "lat": 50.433493,
+      "lon": 16.65366
+    },
+    "471": {
+      "station_id": 471,
+      "param_codes": [
+        "BaP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Legionowo, ul. Zegrzyńska",
+      "city": "Legionowo",
+      "lat": 52.407578,
+      "lon": 20.955928
+    },
+    "52": {
+      "station_id": 52,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "C6H6",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Legnica, Al. Rzeczypospolitej",
+      "city": "Legnica",
+      "lat": 51.204503,
+      "lon": 16.180513
+    },
+    "11234": {
+      "station_id": 11234,
+      "param_codes": [
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25"
+      ],
+      "eaqi_missing": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Legnica, ul. Polarna",
+      "city": "Legnica",
+      "lat": 51.208104,
+      "lon": 16.183784
+    },
+    "17698": {
+      "station_id": 17698,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Leszno, ul. Bolesława Prusa",
+      "city": "Leszno",
+      "lat": 51.833683,
+      "lon": 16.592122
+    },
+    "743": {
+      "station_id": 743,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Liniewko Kościerskie",
+      "city": "Liniewko Kościerskie",
+      "lat": 54.104111,
+      "lon": 18.182972
+    },
+    "20468": {
+      "station_id": 20468,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Lubań, ul. Ludowa",
+      "city": "Lubań",
+      "lat": 51.120091,
+      "lon": 15.298189
+    },
+    "266": {
+      "station_id": 266,
+      "param_codes": [
+        "C6H6",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Lublin, ul. Obywatelska",
+      "city": "Lublin",
+      "lat": 51.259431,
+      "lon": 22.569133
+    },
+    "12096": {
+      "station_id": 12096,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Lublin, ul. Okopowa",
+      "city": "Lublin",
+      "lat": 51.245464,
+      "lon": 22.554994
+    },
+    "258": {
+      "station_id": 258,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Lublin, ul. Śliwińskiego",
+      "city": "Lublin",
+      "lat": 51.273078,
+      "lon": 22.551675
+    },
+    "11278": {
+      "station_id": 11278,
+      "param_codes": [
+        "C6H6",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Lubliniec, ul. ks. Szymały",
+      "city": "Lubliniec",
+      "lat": 50.675693,
+      "lon": 18.682065
+    },
+    "742": {
+      "station_id": 742,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3"
+      ],
+      "eaqi_present": [
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Lębork, ul. Malczewskiego",
+      "city": "Lębork",
+      "lat": 54.546167,
+      "lon": 17.746194
+    },
+    "741": {
+      "station_id": 741,
+      "param_codes": [
+        "BaP(PM10)",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Malbork, ul. Mickiewicza",
+      "city": "Malbork",
+      "lat": 54.031247,
+      "lon": 19.032899
+    },
+    "10794": {
+      "station_id": 10794,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "O3"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Małogoszcz, ul. Słoneczna",
+      "city": "Małogoszcz",
+      "lat": 50.80961,
+      "lon": 20.266032
+    },
+    "10438": {
+      "station_id": 10438,
+      "param_codes": [
+        "C6H6",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Mielec, ul. Biernackiego",
+      "city": "Mielec",
+      "lat": 50.299128,
+      "lon": 21.440942
+    },
+    "10115": {
+      "station_id": 10115,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "C6H6",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "Pb(PM10)",
+        "formaldehyd"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Mielec, ul. Pogodna",
+      "city": "Mielec",
+      "lat": 50.318036,
+      "lon": 21.486372
+    },
+    "16495": {
+      "station_id": 16495,
+      "param_codes": [
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Mosina, ul. Czereśniowa",
+      "city": "Mosina",
+      "lat": 52.241497,
+      "lon": 16.865125
+    },
+    "825": {
+      "station_id": 825,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Myszków, ul. Miedziana",
+      "city": "Myszków",
+      "lat": 50.579733,
+      "lon": 19.3267
+    },
+    "16753": {
+      "station_id": 16753,
+      "param_codes": [
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Myślenice",
+      "city": "Myślenice",
+      "lat": 49.831237,
+      "lon": 19.923591
+    },
+    "973": {
+      "station_id": 973,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Myślibórz, ul. Za Bramką",
+      "city": "Myślibórz",
+      "lat": 52.926283,
+      "lon": 14.862809
+    },
+    "9798": {
+      "station_id": 9798,
+      "param_codes": [
+        "As(PM10)",
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "C6H6",
+        "CO",
+        "Cd(PM10)",
+        "DBahA(PM10)",
+        "IP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "O3"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Nakło nad Notecią, ul. Św. Wawrzyńca",
+      "city": "Nakło nad Notecią",
+      "lat": 53.136681,
+      "lon": 17.591539
+    },
+    "11362": {
+      "station_id": 11362,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Nałęczów, Al. Małachowskiego",
+      "city": "Nałęczów",
+      "lat": 51.284931,
+      "lon": 22.210242
+    },
+    "875": {
+      "station_id": 875,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Nidzica, ul.Traugutta",
+      "city": "Nidzica",
+      "lat": 53.361112,
+      "lon": 20.422046
+    },
+    "455": {
+      "station_id": 455,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Niepołomice, ul. 3 Maja",
+      "city": "Niepołomice",
+      "lat": 50.035117,
+      "lon": 20.212689
+    },
+    "659": {
+      "station_id": 659,
+      "param_codes": [
+        "BaP(PM10)",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Nisko, ul. Szklarniowa",
+      "city": "Nisko",
+      "lat": 50.529892,
+      "lon": 22.112467
+    },
+    "11254": {
+      "station_id": 11254,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Nowa Ruda, ul. Jeziorna",
+      "city": "Nowa Ruda",
+      "lat": 50.581492,
+      "lon": 16.498245
+    },
+    "16613": {
+      "station_id": 16613,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "PM25",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Nowa Sól",
+      "city": "Nowa Sól",
+      "lat": 51.809103,
+      "lon": 15.708042
+    },
+    "769": {
+      "station_id": 769,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Nowiny, ul. Parkowa",
+      "city": "Nowiny",
+      "lat": 50.823108,
+      "lon": 20.533506
+    },
+    "426": {
+      "station_id": 426,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Nowy Sącz, ul. Nadbrzeżna",
+      "city": "Nowy Sącz",
+      "lat": 49.619281,
+      "lon": 20.714403
+    },
+    "16894": {
+      "station_id": 16894,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Nowy Targ, Al. Tysiąclecia",
+      "city": "Nowy Targ",
+      "lat": 49.476675,
+      "lon": 20.034878
+    },
+    "912": {
+      "station_id": 912,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Nowy Tomyśl, ul. Sienkiewicza",
+      "city": "Nowy Tomyśl",
+      "lat": 52.316748,
+      "lon": 16.142154
+    },
+    "20387": {
+      "station_id": 20387,
+      "param_codes": [
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Nysa, ul. Rodziewiczówny 1",
+      "city": "Nysa",
+      "lat": 50.460992,
+      "lon": 17.331499
+    },
+    "584": {
+      "station_id": 584,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Olesno, ul. Słowackiego",
+      "city": "Olesno",
+      "lat": 50.876983,
+      "lon": 18.416878
+    },
+    "71": {
+      "station_id": 71,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Oleśnica, ul. Brzozowa",
+      "city": "Oleśnica",
+      "lat": 51.217483,
+      "lon": 17.389997
+    },
+    "11301": {
+      "station_id": 11301,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Olkusz, ul. Cegielniana",
+      "city": "Olkusz",
+      "lat": 50.284,
+      "lon": 19.564044
+    },
+    "877": {
+      "station_id": 877,
+      "param_codes": [
+        "As(PM10)",
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "C6H6",
+        "CO",
+        "Cd(PM10)",
+        "DBahA(PM10)",
+        "IP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Olsztyn, ul. Puszkina",
+      "city": "Olsztyn",
+      "lat": 53.789233,
+      "lon": 20.486075
+    },
+    "12139": {
+      "station_id": 12139,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Opatów, ul. Partyzantów",
+      "city": "Opatów",
+      "lat": 50.798077,
+      "lon": 21.425467
+    },
+    "10456": {
+      "station_id": 10456,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Opoczno, ul. Skłodowskiej-Curie",
+      "city": "Opoczno",
+      "lat": 51.379128,
+      "lon": 20.282169
+    },
+    "590": {
+      "station_id": 590,
+      "param_codes": [
+        "As(PM10)",
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "C6H6",
+        "Cd(PM10)",
+        "DBahA(PM10)",
+        "IP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Opole, Os. Armii Krajowej",
+      "city": "Opole",
+      "lat": 50.676856,
+      "lon": 17.950278
+    },
+    "10374": {
+      "station_id": 10374,
+      "param_codes": [
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Opole, ul. Koszyka",
+      "city": "Opole",
+      "lat": 50.666736,
+      "lon": 17.899137
+    },
+    "74": {
+      "station_id": 74,
+      "param_codes": [
+        "As(PM10)",
+        "As(cdepoz)",
+        "BaA(PM10)",
+        "BaA(cdepoz)",
+        "BaP(PM10)",
+        "BaP(cdepoz)",
+        "BbF(PM10)",
+        "BbF(cdepoz)",
+        "BjF(PM10)",
+        "BjF(cdepoz)",
+        "BkF(PM10)",
+        "BkF(cdepoz)",
+        "Ca2+(PM25)",
+        "Cd(PM10)",
+        "Cd(cdepoz)",
+        "Cl_(PM25)",
+        "DBahA(PM10)",
+        "DBahA(cdepoz)",
+        "EC(PM25)",
+        "Hg(cdepoz)"
+      ],
+      "eaqi_present": [],
+      "eaqi_missing": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 0,
+      "full_sensors": false,
+      "name": "Osieczów",
+      "city": "Osieczów",
+      "lat": 51.31763,
+      "lon": 15.431719
+    },
+    "20567": {
+      "station_id": 20567,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Ostrowiec Świętokrzyski, ul. Polna",
+      "city": "Ostrowiec Świętokrzyski",
+      "lat": 50.945335,
+      "lon": 21.382405
+    },
+    "9114": {
+      "station_id": 9114,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Ostrołęka, ul. Hallera",
+      "city": "Ostrołęka",
+      "lat": 53.083736,
+      "lon": 21.579322
+    },
+    "10030": {
+      "station_id": 10030,
+      "param_codes": [
+        "BaP(PM10)",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Ostróda, ul. Piłsudskiego",
+      "city": "Ostróda",
+      "lat": 53.694587,
+      "lon": 19.969041
+    },
+    "485": {
+      "station_id": 485,
+      "param_codes": [
+        "BaP(PM10)",
+        "C6H6",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Otwock, ul. Brzozowa",
+      "city": "Otwock",
+      "lat": 52.115725,
+      "lon": 21.237297
+    },
+    "70": {
+      "station_id": 70,
+      "param_codes": [
+        "BaP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Oława, ul. Żołnierzy Armii Krajowej",
+      "city": "Oława",
+      "lat": 50.942073,
+      "lon": 17.291333
+    },
+    "10814": {
+      "station_id": 10814,
+      "param_codes": [
+        "BaP(PM10)",
+        "C6H6",
+        "PM10",
+        "etylobenzen",
+        "mpksylen",
+        "oksylen",
+        "toluen"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Oświęcim, ul. J. Bema",
+      "city": "Oświęcim",
+      "lat": 50.033083,
+      "lon": 19.245275
+    },
+    "777": {
+      "station_id": 777,
+      "param_codes": [
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Ożarów, Os. Wzgórze",
+      "city": "Ożarów",
+      "lat": 50.887132,
+      "lon": 21.660726
+    },
+    "314": {
+      "station_id": 314,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Pabianice, ul. Konstantynowska",
+      "city": "Pabianice",
+      "lat": 51.667981,
+      "lon": 19.368683
+    },
+    "319": {
+      "station_id": 319,
+      "param_codes": [
+        "BaP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Parzniewice, Ujęcie Wody",
+      "city": "Parzniewice",
+      "lat": 51.291175,
+      "lon": 19.517556
+    },
+    "488": {
+      "station_id": 488,
+      "param_codes": [
+        "BaP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Piastów, ul. Pułaskiego",
+      "city": "Piastów",
+      "lat": 52.191728,
+      "lon": 20.837489
+    },
+    "322": {
+      "station_id": 322,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "CO",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Piotrków Trybunalski, ul. Krakowskie Przedmieście",
+      "city": "Piotrków Trybunalski",
+      "lat": 51.404406,
+      "lon": 19.696956
+    },
+    "920": {
+      "station_id": 920,
+      "param_codes": [
+        "BaP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "O3"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Pila, ul. Kusocińskiego",
+      "city": "Piła",
+      "lat": 53.154408,
+      "lon": 16.759572
+    },
+    "9218": {
+      "station_id": 9218,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Pleszew, Al. Mickiewicza",
+      "city": "Pleszew",
+      "lat": 51.884922,
+      "lon": 17.791106
+    },
+    "77": {
+      "station_id": 77,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Polkowice, ul. Kasztanowa",
+      "city": "Polkowice",
+      "lat": 51.50237,
+      "lon": 16.075051
+    },
+    "10148": {
+      "station_id": 10148,
+      "param_codes": [
+        "C6H6",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Poznan, ul. Hetmańska",
+      "city": "Poznań",
+      "lat": 52.384293,
+      "lon": 16.918156
+    },
+    "16493": {
+      "station_id": 16493,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Poznań ul. Szwajcarska",
+      "city": "Poznań",
+      "lat": 52.390879,
+      "lon": 16.998053
+    },
+    "944": {
+      "station_id": 944,
+      "param_codes": [
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Poznań, ul. Dąbrowskiego",
+      "city": "Poznań",
+      "lat": 52.420319,
+      "lon": 16.877289
+    },
+    "931": {
+      "station_id": 931,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Poznań, ul. Spychalskiego",
+      "city": "Poznań",
+      "lat": 52.392866,
+      "lon": 16.928442
+    },
+    "932": {
+      "station_id": 932,
+      "param_codes": [
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "DBahA(PM10)",
+        "IP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Poznań, ul. Szymanowskiego",
+      "city": "Poznań",
+      "lat": 52.459192,
+      "lon": 16.9062
+    },
+    "778": {
+      "station_id": 778,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Połaniec, ul. Ruszczańska",
+      "city": "Połaniec",
+      "lat": 50.429014,
+      "lon": 21.277367
+    },
+    "16157": {
+      "station_id": 16157,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Połczyn-Zdrój, ul. Solankowa",
+      "city": "Połczyn-Zdrój",
+      "lat": 53.755652,
+      "lon": 16.089278
+    },
+    "665": {
+      "station_id": 665,
+      "param_codes": [
+        "BaP(PM10)",
+        "C6H6",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Przemyśl, ul. Grunwaldzka",
+      "city": "Przemyśl",
+      "lat": 49.784339,
+      "lon": 22.756239
+    },
+    "17058": {
+      "station_id": 17058,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Pszczyna, ul. Batorego",
+      "city": "Pszczyna",
+      "lat": 49.975772,
+      "lon": 18.947686
+    },
+    "497": {
+      "station_id": 497,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "C6H6",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Płock, ul. Królowej Jadwigi",
+      "city": "Płock",
+      "lat": 52.556279,
+      "lon": 19.687672
+    },
+    "501": {
+      "station_id": 501,
+      "param_codes": [
+        "C6H6",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Płock, ul. Reja",
+      "city": "Płock",
+      "lat": 52.550938,
+      "lon": 19.709791
+    },
+    "10446": {
+      "station_id": 10446,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Rabka-Zdrój, ul. Orkana",
+      "city": "Rabka-Zdrój",
+      "lat": 49.608647,
+      "lon": 19.966008
+    },
+    "11794": {
+      "station_id": 11794,
+      "param_codes": [
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Racibórz, ul. Wojska Polskiego",
+      "city": "Racibórz",
+      "lat": 50.091142,
+      "lon": 18.216261
+    },
+    "510": {
+      "station_id": 510,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Radom, ul. 25 Czerwca",
+      "city": "Radom",
+      "lat": 51.40608,
+      "lon": 21.166819
+    },
+    "512": {
+      "station_id": 512,
+      "param_codes": [
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25"
+      ],
+      "eaqi_missing": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Radom, ul. Hallera",
+      "city": "Radom",
+      "lat": 51.415324,
+      "lon": 21.171285
+    },
+    "515": {
+      "station_id": 515,
+      "param_codes": [
+        "C6H6",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Radom, ul. Tochtermana",
+      "city": "Radom",
+      "lat": 51.399084,
+      "lon": 21.147474
+    },
+    "331": {
+      "station_id": 331,
+      "param_codes": [
+        "BaP(PM10)",
+        "C6H6",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Radomsko, ul. Rolna",
+      "city": "Radomsko",
+      "lat": 51.067417,
+      "lon": 19.448714
+    },
+    "275": {
+      "station_id": 275,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Radzyń Podlaski, ul. Sitkowskiego",
+      "city": "Radzyń Podlaski",
+      "lat": 51.78,
+      "lon": 22.625944
+    },
+    "834": {
+      "station_id": 834,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "C6H6",
+        "CO",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Rybnik, ul. Borki",
+      "city": "Rybnik",
+      "lat": 50.111181,
+      "lon": 18.516139
+    },
+    "10414": {
+      "station_id": 10414,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Rymanów Zdrój, ul. Parkowa",
+      "city": "Rymanów-Zdrój",
+      "lat": 49.546539,
+      "lon": 21.851006
+    },
+    "10125": {
+      "station_id": 10125,
+      "param_codes": [
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Rzeszów, Al. Piłsudskiego",
+      "city": "Rzeszów",
+      "lat": 50.040675,
+      "lon": 22.004656
+    },
+    "671": {
+      "station_id": 671,
+      "param_codes": [
+        "As(PM10)",
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "C6H6",
+        "Cd(PM10)",
+        "DBahA(PM10)",
+        "IP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Rzeszów, Al. Rejtana",
+      "city": "Rzeszów",
+      "lat": 50.024242,
+      "lon": 22.010575
+    },
+    "20201": {
+      "station_id": 20201,
+      "param_codes": [
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Rzeszów, ul. Kwiatkowskiego",
+      "city": "Rzeszów",
+      "lat": 49.998408,
+      "lon": 21.992183
+    },
+    "17179": {
+      "station_id": 17179,
+      "param_codes": [
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Rzeszów, ul. Starzyńskiego",
+      "city": "Rzeszów",
+      "lat": 50.060381,
+      "lon": 21.980511
+    },
+    "678": {
+      "station_id": 678,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Sanok, ul. Sadowa",
+      "city": "Sanok",
+      "lat": 49.571731,
+      "lon": 22.195892
+    },
+    "517": {
+      "station_id": 517,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Siedlce, ul. Konarskiego",
+      "city": "Siedlce",
+      "lat": 52.172145,
+      "lon": 22.282001
+    },
+    "10140": {
+      "station_id": 10140,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Sieradz, ul. Polna",
+      "city": "Sieradz",
+      "lat": 51.592058,
+      "lon": 18.734811
+    },
+    "437": {
+      "station_id": 437,
+      "param_codes": [
+        "C6H6",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "O3"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Skawina, Os. Ogrody",
+      "city": "Skawina",
+      "lat": 49.971047,
+      "lon": 19.830422
+    },
+    "9236": {
+      "station_id": 9236,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Skierniewice, ul. Konopnickiej",
+      "city": "Skierniewice",
+      "lat": 51.954297,
+      "lon": 20.149461
+    },
+    "374": {
+      "station_id": 374,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Smolary Bytnickie",
+      "city": "Smolary Bytnickie",
+      "lat": 52.172222,
+      "lon": 15.206667
+    },
+    "20591": {
+      "station_id": 20591,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Solec Kujawski, ul. Tartaczna 10",
+      "city": "Solec Kujawski",
+      "lat": 53.079306,
+      "lon": 18.248444
+    },
+    "20568": {
+      "station_id": 20568,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Solec-Zdrój, ul. Leśna",
+      "city": "Solec Zdrój",
+      "lat": 50.36608,
+      "lon": 20.884767
+    },
+    "16242": {
+      "station_id": 16242,
+      "param_codes": [
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "O3"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Sopot, ul. Bitwy Pod Płowcami",
+      "city": "Sopot",
+      "lat": 54.43451,
+      "lon": 18.57884
+    },
+    "837": {
+      "station_id": 837,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Sosnowiec, ul. Lubelska",
+      "city": "Sosnowiec",
+      "lat": 50.285956,
+      "lon": 19.184399
+    },
+    "10126": {
+      "station_id": 10126,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Stalowa Wola, ul. Wojska Polskiego",
+      "city": "Stalowa Wola",
+      "lat": 50.577828,
+      "lon": 22.054336
+    },
+    "785": {
+      "station_id": 785,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Starachowice, ul. Złota",
+      "city": "Starachowice",
+      "lat": 51.050611,
+      "lon": 21.084175
+    },
+    "10124": {
+      "station_id": 10124,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Sucha Beskidzka, ul. Nieszczyńskiej",
+      "city": "Sucha Beskidzka",
+      "lat": 49.743131,
+      "lon": 19.600339
+    },
+    "376": {
+      "station_id": 376,
+      "param_codes": [
+        "BaP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Sulęcin ul. Dudka",
+      "city": "Sulęcin",
+      "lat": 52.437722,
+      "lon": 15.122444
+    },
+    "11154": {
+      "station_id": 11154,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Suwałki, ul. Pułaskiego 26",
+      "city": "Suwałki",
+      "lat": 54.115897,
+      "lon": 22.938464
+    },
+    "9179": {
+      "station_id": 9179,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3"
+      ],
+      "eaqi_present": [
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Szarów, ul. Spokojna",
+      "city": "Szarów",
+      "lat": 50.0075,
+      "lon": 20.259167
+    },
+    "93": {
+      "station_id": 93,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Szczawno-Zdrój, ul. Kolejowa",
+      "city": "Szczawno-Zdrój",
+      "lat": 50.804189,
+      "lon": 16.254111
+    },
+    "986": {
+      "station_id": 986,
+      "param_codes": [
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "DBahA(PM10)",
+        "IP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Szczecin, ul. Andrzejewskiego",
+      "city": "Szczecin",
+      "lat": 53.380975,
+      "lon": 14.663347
+    },
+    "987": {
+      "station_id": 987,
+      "param_codes": [
+        "BaP(PM10)",
+        "C6H6",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "O3"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Szczecin, ul. Piłsudskiego",
+      "city": "Szczecin",
+      "lat": 53.432169,
+      "lon": 14.5539
+    },
+    "989": {
+      "station_id": 989,
+      "param_codes": [
+        "SO2"
+      ],
+      "eaqi_present": [
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Szczecin, ul. Łączna",
+      "city": "Szczecin",
+      "lat": 53.470889,
+      "lon": 14.55625
+    },
+    "981": {
+      "station_id": 981,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "PM25",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Szczecinek, ul. 1 Maja",
+      "city": "Szczecinek",
+      "lat": 53.712114,
+      "lon": 16.692517
+    },
+    "983": {
+      "station_id": 983,
+      "param_codes": [
+        "BaP(PM10)",
+        "C6H6",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "SO2",
+        "formaldehyd"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "O3"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Szczecinek, ul. Przemysłowa",
+      "city": "Szczecinek",
+      "lat": 53.698902,
+      "lon": 16.704556
+    },
+    "20548": {
+      "station_id": 20548,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "PM25",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Szlichtyngowa, ul. Przemysłowa",
+      "city": "Szlichtyngowa",
+      "lat": 51.710278,
+      "lon": 16.239722
+    },
+    "443": {
+      "station_id": 443,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Szymbark",
+      "city": "Szymbark",
+      "lat": 49.633714,
+      "lon": 21.116833
+    },
+    "725": {
+      "station_id": 725,
+      "param_codes": [
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Słupsk, ul. Kniaziewicza",
+      "city": "Słupsk",
+      "lat": 54.463611,
+      "lon": 17.046722
+    },
+    "684": {
+      "station_id": 684,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Tarnobrzeg, ul. Dąbrowskiej",
+      "city": "Tarnobrzeg",
+      "lat": 50.575742,
+      "lon": 21.688367
+    },
+    "839": {
+      "station_id": 839,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "PM25",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Tarnowskie Góry, ul. Litewska",
+      "city": "Tarnowskie Góry",
+      "lat": 50.444736,
+      "lon": 18.829639
+    },
+    "444": {
+      "station_id": 444,
+      "param_codes": [
+        "BaP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Tarnów, ul. Bitwy pod Studziankami",
+      "city": "Tarnów",
+      "lat": 50.020169,
+      "lon": 21.004167
+    },
+    "10120": {
+      "station_id": 10120,
+      "param_codes": [
+        "C6H6",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Tarnów, ul. Ks. Romana Sitko",
+      "city": "Tarnów",
+      "lat": 50.018253,
+      "lon": 20.992578
+    },
+    "20607": {
+      "station_id": 20607,
+      "param_codes": [
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Tczew, ul. Czyżykowska",
+      "city": "Tczew",
+      "lat": 54.081937,
+      "lon": 18.804446
+    },
+    "20277": {
+      "station_id": 20277,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Tomaszów Lubelski, ul. Janusza Petera",
+      "city": "Tomaszów Lubelski",
+      "lat": 50.444128,
+      "lon": 23.421553
+    },
+    "345": {
+      "station_id": 345,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Tomaszów Mazowiecki ul. Św. Antoniego",
+      "city": "Tomaszów Mazowiecki",
+      "lat": 51.526225,
+      "lon": 20.016858
+    },
+    "206": {
+      "station_id": 206,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Toruń, ul. Dziewulskiego",
+      "city": "Toruń",
+      "lat": 53.028647,
+      "lon": 18.666103
+    },
+    "208": {
+      "station_id": 208,
+      "param_codes": [
+        "C6H6",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Toruń, ul. Przy Kaszowniku",
+      "city": "Toruń",
+      "lat": 53.017628,
+      "lon": 18.612808
+    },
+    "145": {
+      "station_id": 145,
+      "param_codes": [
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Toruń, ul. Wały gen. Sikorskiego",
+      "city": "Toruń",
+      "lat": 53.012475,
+      "lon": 18.605681
+    },
+    "449": {
+      "station_id": 449,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "C6H6",
+        "CO",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Trzebinia, Os. Związku Walki Młodych",
+      "city": "Trzebinia",
+      "lat": 50.159406,
+      "lon": 19.477464
+    },
+    "11934": {
+      "station_id": 11934,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Trzebnica, ul. 3 Maja",
+      "city": "Trzebnica",
+      "lat": 51.304817,
+      "lon": 17.071367
+    },
+    "450": {
+      "station_id": 450,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Tuchów, ul. Chopina",
+      "city": "Tuchów",
+      "lat": 49.894169,
+      "lon": 21.051061
+    },
+    "841": {
+      "station_id": 841,
+      "param_codes": [
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Tychy, ul. Tołstoja",
+      "city": "Tychy",
+      "lat": 50.099903,
+      "lon": 18.990236
+    },
+    "10059": {
+      "station_id": 10059,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Uniejów, ul. Zamkowa",
+      "city": "Uniejów",
+      "lat": 51.971711,
+      "lon": 18.790289
+    },
+    "842": {
+      "station_id": 842,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Ustroń, ul. Sanatoryjna",
+      "city": "Ustroń",
+      "lat": 49.719731,
+      "lon": 18.826722
+    },
+    "17118": {
+      "station_id": 17118,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Wysowa-Zdrój, Park Zdrojowy",
+      "city": "Uście Gorlickie Wysowa",
+      "lat": 49.440175,
+      "lon": 21.178087
+    },
+    "530": {
+      "station_id": 530,
+      "param_codes": [
+        "C6H6",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Warszawa, Al. Niepodległości",
+      "city": "Warszawa",
+      "lat": 52.219298,
+      "lon": 21.004724
+    },
+    "20488": {
+      "station_id": 20488,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Warszawa, Al. Solidarności",
+      "city": "Warszawa",
+      "lat": 52.243573,
+      "lon": 20.999214
+    },
+    "16533": {
+      "station_id": 16533,
+      "param_codes": [
+        "O3"
+      ],
+      "eaqi_present": [
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Warszawa, IMGW",
+      "city": "Warszawa",
+      "lat": 52.281304,
+      "lon": 20.963383
+    },
+    "10956": {
+      "station_id": 10956,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Warszawa, ul. Bajkowa",
+      "city": "Warszawa",
+      "lat": 52.188474,
+      "lon": 21.176233
+    },
+    "10955": {
+      "station_id": 10955,
+      "param_codes": [
+        "BaP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Warszawa, ul. Chrościckiego",
+      "city": "Warszawa",
+      "lat": 52.207742,
+      "lon": 20.906073
+    },
+    "20487": {
+      "station_id": 20487,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Warszawa, ul. Grochowska",
+      "city": "Warszawa",
+      "lat": 52.245704,
+      "lon": 21.080427
+    },
+    "552": {
+      "station_id": 552,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Warszawa, ul. Kondratowicza",
+      "city": "Warszawa",
+      "lat": 52.290864,
+      "lon": 21.042458
+    },
+    "532": {
+      "station_id": 532,
+      "param_codes": [
+        "As(PM10)",
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "Cd(PM10)",
+        "DBahA(PM10)",
+        "IP(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Warszawa, ul. Krzywoń",
+      "city": "Warszawa",
+      "lat": 52.228649,
+      "lon": 20.917513
+    },
+    "538": {
+      "station_id": 538,
+      "param_codes": [
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Warszawa, ul. Tołstoja",
+      "city": "Warszawa",
+      "lat": 52.285073,
+      "lon": 20.933018
+    },
+    "550": {
+      "station_id": 550,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Warszawa, ul. Wokalna",
+      "city": "Warszawa",
+      "lat": 52.160772,
+      "lon": 21.033819
+    },
+    "109": {
+      "station_id": 109,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "C6H6",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Wałbrzych, ul. Wysockiego",
+      "city": "Wałbrzych",
+      "lat": 50.768729,
+      "lon": 16.269677
+    },
+    "16397": {
+      "station_id": 16397,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Wejherowo, ul. Dworcowa",
+      "city": "Wejherowo",
+      "lat": 54.604528,
+      "lon": 18.227761
+    },
+    "961": {
+      "station_id": 961,
+      "param_codes": [
+        "C6H6",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Widuchowa",
+      "city": "Widuchowa",
+      "lat": 53.122325,
+      "lon": 14.382245
+    },
+    "347": {
+      "station_id": 347,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Wieluń, ul. POW",
+      "city": "Wieluń",
+      "lat": 51.217828,
+      "lon": 18.581828
+    },
+    "10854": {
+      "station_id": 10854,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Wieniec Zdrój, ul. Wieniecka",
+      "city": "Wieniec-Zdrój",
+      "lat": 52.656773,
+      "lon": 18.987456
+    },
+    "282": {
+      "station_id": 282,
+      "param_codes": [
+        "O3"
+      ],
+      "eaqi_present": [
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Wilczopole",
+      "city": "Wilczopole",
+      "lat": 51.163542,
+      "lon": 22.598608
+    },
+    "845": {
+      "station_id": 845,
+      "param_codes": [
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Wodzisław Śląski, ul. Gałczyńskiego",
+      "city": "Wodzisław Śląski",
+      "lat": 50.007629,
+      "lon": 18.455548
+    },
+    "129": {
+      "station_id": 129,
+      "param_codes": [
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "PM10",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Wrocław, Al. Wiśniowa",
+      "city": "Wrocław",
+      "lat": 51.086225,
+      "lon": 17.012689
+    },
+    "114": {
+      "station_id": 114,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3"
+      ],
+      "eaqi_present": [
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Wrocław, ul. Bartnicza",
+      "city": "Wrocław",
+      "lat": 51.115933,
+      "lon": 17.141125
+    },
+    "115": {
+      "station_id": 115,
+      "param_codes": [
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25"
+      ],
+      "eaqi_missing": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Wrocław, ul. Na Grobli",
+      "city": "Wrocław",
+      "lat": 51.103456,
+      "lon": 17.059225
+    },
+    "122": {
+      "station_id": 122,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Wrocław, ul. Orzechowa",
+      "city": "Wrocław",
+      "lat": 51.077525,
+      "lon": 17.042817
+    },
+    "117": {
+      "station_id": 117,
+      "param_codes": [
+        "As(PM10)",
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "C6H6",
+        "CO",
+        "Cd(PM10)",
+        "DBahA(PM10)",
+        "IP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Wrocław, wyb. Conrada-Korzeniowskiego",
+      "city": "Wrocław",
+      "lat": 51.129378,
+      "lon": 17.02925
+    },
+    "379": {
+      "station_id": 379,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Wschowa ul. Kazimierza Wielkiego",
+      "city": "Wschowa",
+      "lat": 51.799722,
+      "lon": 16.3175
+    },
+    "20140": {
+      "station_id": 20140,
+      "param_codes": [
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Wysokie Mazowieckie, ul. 1 Maja",
+      "city": "Wysokie Mazowieckie",
+      "lat": 52.913878,
+      "lon": 22.509275
+    },
+    "942": {
+      "station_id": 942,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Wągrowiec, ul. Lipowa",
+      "city": "Wągrowiec",
+      "lat": 52.815262,
+      "lon": 17.208381
+    },
+    "10694": {
+      "station_id": 10694,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "Cd(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "PM25",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Włocławek, ul. Gniazdowskiego",
+      "city": "Włocławek",
+      "lat": 52.651561,
+      "lon": 19.051886
+    },
+    "9791": {
+      "station_id": 9791,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Włocławek, ul. Kaliska",
+      "city": "Włocławek",
+      "lat": 52.637394,
+      "lon": 19.044486
+    },
+    "225": {
+      "station_id": 225,
+      "param_codes": [
+        "C6H6",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Włocławek, ul. Okrzei",
+      "city": "Włocławek",
+      "lat": 52.658467,
+      "lon": 19.059314
+    },
+    "11434": {
+      "station_id": 11434,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Zabierzów, ul. Wapienna",
+      "city": "Zabierzów",
+      "lat": 50.116028,
+      "lon": 19.800639
+    },
+    "17880": {
+      "station_id": 17880,
+      "param_codes": [
+        "BaP(PM10)",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Zabrze, ul. M. Skłodowskiej-Curie",
+      "city": "Zabrze",
+      "lat": 50.317072,
+      "lon": 18.771258
+    },
+    "459": {
+      "station_id": 459,
+      "param_codes": [
+        "BaP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Zakopane, ul. Sienkiewicza",
+      "city": "Zakopane",
+      "lat": 49.293564,
+      "lon": 19.960083
+    },
+    "285": {
+      "station_id": 285,
+      "param_codes": [
+        "BaP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "O3"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Zamość, ul. Hrubieszowska",
+      "city": "Zamość",
+      "lat": 50.716628,
+      "lon": 23.290247
+    },
+    "11455": {
+      "station_id": 11455,
+      "param_codes": [
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Zawiercie, ul. K.I.Gałczyńskiego",
+      "city": "Zawiercie",
+      "lat": 50.493045,
+      "lon": 19.439012
+    },
+    "350": {
+      "station_id": 350,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Zduńska Wola, ul. Królewska",
+      "city": "Zduńska Wola",
+      "lat": 51.601378,
+      "lon": 18.940117
+    },
+    "600": {
+      "station_id": 600,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "C6H6",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "etylobenzen",
+        "mpksylen",
+        "toluen"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Zdzieszowice, ul. Piastów",
+      "city": "Zdzieszowice",
+      "lat": 50.423533,
+      "lon": 18.120739
+    },
+    "355": {
+      "station_id": 355,
+      "param_codes": [
+        "BaP(PM10)",
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Zgierz, ul. Mielczarskiego",
+      "city": "Zgierz",
+      "lat": 51.856692,
+      "lon": 19.421231
+    },
+    "134": {
+      "station_id": 134,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Zgorzelec, ul. Bohaterów Getta",
+      "city": "Zgorzelec",
+      "lat": 51.150391,
+      "lon": 15.008175
+    },
+    "387": {
+      "station_id": 387,
+      "param_codes": [
+        "As(PM10)",
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "Cd(PM10)",
+        "DBahA(PM10)",
+        "IP(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Zielona Góra ul. Krótka",
+      "city": "Zielona Góra",
+      "lat": 51.939783,
+      "lon": 15.518861
+    },
+    "11294": {
+      "station_id": 11294,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Zielona Góra,ul.Wyszyńskiego",
+      "city": "Zielona Góra",
+      "lat": 51.936249,
+      "lon": 15.481077
+    },
+    "232": {
+      "station_id": 232,
+      "param_codes": [
+        "123trimetylobenzen",
+        "124trimetylobenzen",
+        "135trimetylobenzen",
+        "13butadien",
+        "1buten",
+        "1penten",
+        "2penten",
+        "As(PM10)",
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BaP(cdepoz)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "acetylen"
+      ],
+      "eaqi_present": [],
+      "eaqi_missing": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 0,
+      "full_sensors": false,
+      "name": "Zielonka, Bory Tucholskie",
+      "city": "Zielonka",
+      "lat": 53.662117,
+      "lon": 17.934017
+    },
+    "10817": {
+      "station_id": 10817,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Złockie, szkoła podstawowa",
+      "city": "Złockie",
+      "lat": 49.374147,
+      "lon": 20.879581
+    },
+    "853": {
+      "station_id": 853,
+      "param_codes": [
+        "Ca2+(PM25)",
+        "Cl_(PM25)",
+        "EC(PM25)",
+        "Hg(TGM)",
+        "K+(PM25)",
+        "Mg2+(PM25)",
+        "NH4+(PM25)",
+        "NO",
+        "NO2",
+        "NO3_(PM25)",
+        "NOx",
+        "Na+(PM25)",
+        "O3",
+        "OC(PM25)",
+        "PM10",
+        "PM25",
+        "SO2",
+        "SO42_(PM25)"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Złoty Potok, Leśniczówka",
+      "city": "Złoty Potok",
+      "lat": 50.710889,
+      "lon": 19.458797
+    },
+    "11554": {
+      "station_id": 11554,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Łask, ul. Narutowicza",
+      "city": "Łask",
+      "lat": 51.589208,
+      "lon": 19.131433
+    },
+    "750": {
+      "station_id": 750,
+      "param_codes": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Łeba, IMGW",
+      "city": "Łeba",
+      "lat": 54.754139,
+      "lon": 17.534528
+    },
+    "618": {
+      "station_id": 618,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "C6H6",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "O3"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Łomża, ul. Sikorskiego",
+      "city": "Łomża",
+      "lat": 53.181394,
+      "lon": 22.054381
+    },
+    "10058": {
+      "station_id": 10058,
+      "param_codes": [
+        "CO",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Łódź, Al. Jana Pawła II",
+      "city": "Łódź",
+      "lat": 51.754613,
+      "lon": 19.434925
+    },
+    "295": {
+      "station_id": 295,
+      "param_codes": [
+        "NO",
+        "NO2",
+        "NOx",
+        "O3",
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3"
+      ],
+      "eaqi_missing": [
+        "SO2"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Łódź, ul. Czernika",
+      "city": "Łódź",
+      "lat": 51.75805,
+      "lon": 19.529786
+    },
+    "296": {
+      "station_id": 296,
+      "param_codes": [
+        "C6H6",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "O3"
+      ],
+      "eaqi_count": 3,
+      "full_sensors": false,
+      "name": "Łódź, ul. Gdańska",
+      "city": "Łódź",
+      "lat": 51.775378,
+      "lon": 19.450992
+    },
+    "302": {
+      "station_id": 302,
+      "param_codes": [
+        "As(PM10)",
+        "BaA(PM10)",
+        "BaP(PM10)",
+        "BbF(PM10)",
+        "BjF(PM10)",
+        "BkF(PM10)",
+        "Cd(PM10)",
+        "DBahA(PM10)",
+        "IP(PM10)",
+        "Ni(PM10)",
+        "PM10",
+        "PM25",
+        "Pb(PM10)"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Łódź, ul. Legionów",
+      "city": "Łódź",
+      "lat": 51.776417,
+      "lon": 19.452936
+    },
+    "10141": {
+      "station_id": 10141,
+      "param_codes": [
+        "BaP(PM10)",
+        "PM10"
+      ],
+      "eaqi_present": [
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "PM25",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 1,
+      "full_sensors": false,
+      "name": "Świdnica, ul. Folwarczna",
+      "city": "Świdnica",
+      "lat": 50.84443,
+      "lon": 16.494006
+    },
+    "382": {
+      "station_id": 382,
+      "param_codes": [
+        "As(PM10)",
+        "BaP(PM10)",
+        "C6H6",
+        "CO",
+        "Cd(PM10)",
+        "NO",
+        "NO2",
+        "NOx",
+        "Ni(PM10)",
+        "O3",
+        "PM10",
+        "PM25",
+        "Pb(PM10)",
+        "SO2",
+        "etylobenzen",
+        "formaldehyd",
+        "mpksylen",
+        "toluen"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_missing": [],
+      "eaqi_count": 5,
+      "full_sensors": true,
+      "name": "Żary, ul. Szymanowskiego",
+      "city": "Żary",
+      "lat": 51.642656,
+      "lon": 15.127808
+    },
+    "10554": {
+      "station_id": 10554,
+      "param_codes": [
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Żory, Os. Gen. Władysława Sikorskiego",
+      "city": "Żory",
+      "lat": 50.029416,
+      "lon": 18.689527
+    },
+    "562": {
+      "station_id": 562,
+      "param_codes": [
+        "PM10",
+        "PM25"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10"
+      ],
+      "eaqi_missing": [
+        "NO2",
+        "O3",
+        "SO2"
+      ],
+      "eaqi_count": 2,
+      "full_sensors": false,
+      "name": "Żyrardów, ul. Roosevelta",
+      "city": "Żyrardów",
+      "lat": 52.053811,
+      "lon": 20.429892
+    },
+    "856": {
+      "station_id": 856,
+      "param_codes": [
+        "BaP(PM10)",
+        "C6H6",
+        "NO",
+        "NO2",
+        "NOx",
+        "PM10",
+        "PM25",
+        "SO2"
+      ],
+      "eaqi_present": [
+        "PM25",
+        "PM10",
+        "NO2",
+        "SO2"
+      ],
+      "eaqi_missing": [
+        "O3"
+      ],
+      "eaqi_count": 4,
+      "full_sensors": false,
+      "name": "Żywiec, ul. Kopernika",
+      "city": "Żywiec",
+      "lat": 49.671602,
+      "lon": 19.234446
+    }
+  }
+}
